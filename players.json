@@ -1,0 +1,10 @@
+{
+  "players": {
+    "COLLE-UUID-ICI-1": { "name": "PseudoJoueur1", "tier": "diamond_trim" },
+    "COLLE-UUID-ICI-2": { "name": "PseudoJoueur2", "tier": "redstone_trim" },
+    "COLLE-UUID-ICI-3": { "name": "PseudoJoueur3", "tier": "gold_trim" },
+    "COLLE-UUID-ICI-4": { "name": "PseudoJoueur4", "tier": "iron_trim" },
+    "COLLE-UUID-ICI-5": { "name": "PseudoJoueur5", "tier": "copper_trim" },
+    "COLLE-UUID-ICI-6": { "name": "PseudoJoueur6", "tier": "no_trim" }
+  }
+}

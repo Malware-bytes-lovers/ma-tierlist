@@ -6,6 +6,6 @@
     "COLLE-UUID-ICI-4": { "name": "PseudoJoueur4", "tier": "iron_trim" },
     "COLLE-UUID-ICI-5": { "name": "PseudoJoueur5", "tier": "copper_trim" },
     "COLLE-UUID-ICI-6": { "name": "PseudoJoueur6", "tier": "no_trim" }
-    
+    "76c3a62d-93da-4318-b878-f0a70653712a": { "name": "Mangeur2biquette", "tier": "mafia_leader" }
   }
 }

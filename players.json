@@ -1,11 +1,12 @@
 {
   "players": {
-    "COLLE-UUID-ICI-1": { "name": "PseudoJoueur1", "tier": "diamond_trim" },
-    "c4c8ccbc-8d3f-40d1-863a-da65f458a3d9": { "name": "RVB_pulse", "tier": "redstone_trim" },
-    "COLLE-UUID-ICI-3": { "name": "PseudoJoueur3", "tier": "gold_trim" },
-    "COLLE-UUID-ICI-4": { "name": "PseudoJoueur4", "tier": "iron_trim" },
-    "COLLE-UUID-ICI-5": { "name": "PseudoJoueur5", "tier": "copper_trim" },
-    "COLLE-UUID-ICI-6": { "name": "PseudoJoueur6", "tier": "no_trim" }
-    "76c3a62d-93da-4318-b878-f0a70653712a": { "name": "Mangeur2biquette", "tier": "mafia_leader" }
+    "c4c8ccbc-8d3f-40d1-863a-da65f458a3d9": {
+      "name": "RVB_pulse",
+      "tier": "redstone_trim"
+    },
+    "76c3a62d-93da-4318-b878-f0a70653712a": {
+      "name": "Mangeur2biquette",
+      "tier": "mafia_leader"
+    }
   }
 }

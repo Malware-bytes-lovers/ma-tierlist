@@ -1,5 +1,9 @@
 {
   "players": {
+    "76c3a62d-93da-4318-b878-f0a70653712a": {
+      "name": "mangeur2biquette",
+      "tier": "mafia_leader"
+    },
     "c4c8ccbc-8d3f-40d1-863a-da65f458a3d9": {
       "name": "RVB_pulse",
       "tier": "redstone_trim"

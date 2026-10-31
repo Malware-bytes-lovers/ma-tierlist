@@ -1,1 +1,60 @@
-
+{
+  "players": {
+    "76c3a62d-93da-4318-b878-f0a70653712a": {
+      "name": "mangeur2biquette",
+      "tier": "mafia_leader"
+    },
+    "c4c8ccbc-8d3f-40d1-863a-da65f458a3d9": {
+      "name": "RVB_pulse",
+      "tier": "redstone_trim"
+    },
+    "7a26f944-f541-4a0e-9676-8999e2b68c0f": {
+      "name": "Pixy_22",
+      "tier": "iron_trim"
+    },
+    "856c88f5-f4df-4fff-b8e3-05c906674286": {
+      "name": "anatiopy",
+      "tier": "iron_trim"
+    },
+    "a3c461e3-2228-4eea-b132-23fe28600539": {
+      "name": "Zafou64",
+      "tier": "irontrim"
+    },
+    "c48041c2-eb74-444e-b738-302099ca30d8": {
+      "name": "Xenoryx",
+      "tier": "gold_trim"
+    },
+    "6ad78b16-737b-444c-8d23-69afaeaf22e0": {
+      "name": "RVB_Miao",
+      "tier": "gold_trim"
+    },
+    "28040c6e-9307-4e86-90d4-c4c195abd28b": {
+      "name": "DarkSoulluoS",
+      "tier": "iron_trim"
+    },
+    "74185d42-b6b8-4e8a-910d-abc1bbbba763": {
+      "name": "SuperThibault",
+      "tier": "no_trim"
+    },
+    "4d758d03-104f-479a-86cf-b0b3301778db": {
+      "name": "darouxpan",
+      "tier": "redstone_trim"
+    },
+    "5e0dd99c-ad80-4fa2-a400-50fa57210a34": {
+      "name": "Min0_22",
+      "tier": "copper_trim"
+    },
+    "4999b84b-5424-4e21-bdcb-160cef9bad31": {
+      "name": "its_Sentence",
+      "tier": "iron_trim"
+    },
+    "6159ae41-78a7-4c28-be44-d47407037b65": {
+      "name": "TheWarden9610",
+      "tier": "diamond_trim"
+    },
+    "69296d1e-81b5-4a80-a777-57ffc5c8923f": {
+      "name": "LeVraiXeno",
+      "tier": "gold_trim"
+    }
+  }
+}
